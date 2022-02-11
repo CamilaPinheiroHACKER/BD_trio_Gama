@@ -31,6 +31,8 @@ Copie, cole e execute as funções de pesquisa e relacionamento dos exercicios p
 
 -> Mostre o valor total do estoque por departamento.
 
+##INTEGRANTES DO GRUPO
+
 <table>
     <tr>
         <td align="center">
