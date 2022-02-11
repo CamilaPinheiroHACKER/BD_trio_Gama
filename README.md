@@ -1,8 +1,10 @@
-DESAIO TRIO GAMA EXPERIENCE
+<h1 align="center"> DESAIO TRIO GAMA EXPERIENCE MYSQL </h1>
+
 
 ## DESCRIÇÃO
 
 Desafio realizado em trio durante o curso GAMA EXPERIENCE pela GAMA ACADEMY, onde foi proposto manipularmos tabelas no MySQL seguindo conceito basico de CRUD: criação, inclusão, alteração e exclusão. Além do CRUD, também foi realizado consultas e pesquisas relacionando tabelas.
+
 
 ## DICAS BASICAS
 
@@ -10,6 +12,7 @@ Para conseguir manipular os dados deste repositório, é necessario ter instalad
 Copie, cole e execute a criação das tabelas.
 Copie, cole e execute a insersão de dados.
 Copie, cole e execute as funções de pesquisa e relacionamento dos exercicios propostos.
+
 
 ## EXERCICIOS REALIZADOS
 
@@ -31,7 +34,9 @@ Copie, cole e execute as funções de pesquisa e relacionamento dos exercicios p
 
 -> Mostre o valor total do estoque por departamento.
 
-##INTEGRANTES DO GRUPO
+
+
+## INTEGRANTES DO GRUPO
 
 <table>
     <tr>
